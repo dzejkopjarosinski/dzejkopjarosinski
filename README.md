@@ -1,6 +1,7 @@
 ### Welcome Wanderer !!!
 
-My name is Jacob and I'm academically trained Computer Scientist. Working on Data Science during the day and going Full-Stack at night. 
+My name is Jacob and I'm academically trained Computer Scientist. </br>
+Working on Data Science during the day and going Full-Stack at night. 
 
 - Personal Website: https://dzejkopjarosinski.github.io
 - 🎓 BA in Economics, MA in Computer Science
