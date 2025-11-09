@@ -1,6 +1,6 @@
 ### Welcome Wanderer !!!
 
-My name is Jacob and I'm a Computer Scientist. </br>
+My name is Jacob and I'm a SWE. </br>
 Working on Data Science during the day and going Full-Stack at night. 
 
 - Personal Website: https://dzejkopjarosinski.github.io
